@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * Main - Prints a text
+ * main - Prints a text
  *
- * Retutn: Always 0
+ * Retutn: always 0
  */
 int main(void)
 {
