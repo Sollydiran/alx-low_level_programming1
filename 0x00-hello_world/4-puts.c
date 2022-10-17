@@ -1,12 +1,12 @@
 #include <stdio.h>
 /**
- * Main - entry point
- * Description: we dey try use putschar
- * Retutn: 0
+ * Main - print a text using puts function
+ *
+ * Retutn: Always 0
  */
 int main(void)
 {
 	puts("\"Programing is line building a multilingual puzzle");
 	return (0);
 }
-r
+
