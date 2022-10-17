@@ -2,7 +2,7 @@
 /**
  * Main - Prints a text
  *
- * Retutn: Always 0 (Success)
+ * Retutn: Always 0
  */
 int main(void)
 {
