@@ -1,10 +1,14 @@
 #include <stdio.h>
- /**
- * Main - Prints a text
+ 
+/**
+ * main - entry point
  *
+ * Description: prints the first 50 Fibonnaci terms
+ *              starting with 1 and 2, followed by
+ *              a newline.
  * Return: Always 0 (Success)
  */
-int main (void)
+int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
