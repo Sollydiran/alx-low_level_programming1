@@ -8,12 +8,12 @@
  */
 void rev_string(char *s)
 {
-	int count = o, i, j;
+	int count = 0, i, j;
 	char *str, temp;
 
 	while (count >= 0)
 	{
-		if(s[count] == '\0')
+		if (s[count] == '\0')
 			break;
 		count++;
 	}
