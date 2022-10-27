@@ -1,13 +1,12 @@
 #include "main.h"
 
-/*8
+/*
  * _strcat - concatenates two strings,
  *
  * @dest: destination.
  * @src:source.
  *
  * Return: the poiter to dest.
- *
  *
  */
 char *_strcat(char *dest, char *srrc)
